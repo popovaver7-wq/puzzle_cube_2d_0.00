@@ -1,0 +1,4 @@
+repository "puzzle_cube_2d/puzzle_cube_2d_0.00@20067520004409@cloud"
+  path "/"
+    br "/main"
+    co "/main"
