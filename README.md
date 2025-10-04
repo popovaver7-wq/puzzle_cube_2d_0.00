@@ -14,3 +14,6 @@ Aplikacja sprawdza poprawność ułożenia i w przypadku sukcesu wyświetla komu
 
 ## ver. 0.00
 pierwsza wersja projektu. zawiera pustą scenę unity. brak jeszcze funkcjonalności.
+
+## ver 0.01
+dodane menu 
