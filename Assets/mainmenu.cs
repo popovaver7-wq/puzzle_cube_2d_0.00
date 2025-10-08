@@ -8,6 +8,6 @@ public class mainmenu : MonoBehaviour
   
     public void PlayGame()
     {
-        SceneManager.LoadSceneAsync("select level");
+        SceneManager.LoadSceneAsync("SelectLevel");
     }
 }

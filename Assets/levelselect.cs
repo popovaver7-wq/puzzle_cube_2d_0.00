@@ -3,12 +3,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 
-public class levelbuttons: MonoBehaviour
+public class LevelButtons: MonoBehaviour
 {
-
-    public void openlevel(int levelid)
+    
+    public void OpenLevel(int LevelId)
     {
-        string levelname = "level" + levelid;
-        SceneManager.LoadScene(levelname);
+        
+        string LevelName = "Level" + LevelId;
+        SceneManager.LoadScene(LevelName); 
     }
 }
