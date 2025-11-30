@@ -17,3 +17,14 @@ pierwsza wersja projektu. zawiera pustą scenę unity. brak jeszcze funkcjonalno
 
 ## ver 0.01
 dodane menu 
+
+## ver 0.10
+dodane zasady clean code:
+
+1. Meaningful Names
+2. KISS (Keep It Simple, Stupid)
+3. DRY (Don’t Repeat Yourself)
+4. Consistent Naming Conventions
+5. Useful Comments Only
+
+dodana lista levlów 
