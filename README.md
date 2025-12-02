@@ -28,3 +28,7 @@ dodane zasady clean code:
 5. Useful Comments Only
 
 dodana lista levlów 
+
+## ver 0.11
+edytowane i stylizowane menu 
+start robienia level 1
