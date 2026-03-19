@@ -35,3 +35,6 @@ start robienia level 1
 
 ## ver 0.12
 dodany 1 level 
+
+## ver 0.4 
+zrobione wszysztkie 6 level
